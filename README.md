@@ -6,7 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m Emma, an engineer with a PhD in Sound and Music Computing based in Paris (France). 
+🧙‍♀️ I’m Emma, an engineer with a PhD in Sound and Music Computing based in Paris (France). 
+
+📝 To learn more about my research, please visit my [Google Scholar page](https://scholar.google.com/citations?user=0PvSz8cAAAAJ&hl=eng). 
 
 👀 I’m interested in analysis and prediction focused on user experience and product analytics. I primarily use Python, R, SQL, and Tableau as tools.
 
