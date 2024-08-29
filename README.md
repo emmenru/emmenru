@@ -6,13 +6,14 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m Emma, an engineer with a PhD in Sound and Music Computing based in Paris (France). 
+🔭 I’m Emma, an engineer with a PhD in Sound and Music Computing based in Paris (France). 
 
-- 👀 I’m interested in analysis and prediction focused on user experience and product analytics. I primarily use Python, R, SQL, and Tableau as tools.
+👀 I’m interested in analysis and prediction focused on user experience and product analytics. I primarily use Python, R, SQL, and Tableau as tools.
 
-- 🎶 I love music and weird sounds (I work in SuperCollider, Max/MSP, and Pd) and I enjoy taking/editing [pictures](https://emserpics.tumblr.com/). 
+🎶 I love music and weird sounds (I work in SuperCollider, Max/MSP, and Pd) and I enjoy taking/editing [pictures](https://emserpics.tumblr.com/). 
 
-- 📫 To contact me, please send me a message on [LinkedIn](emmafrid)! 
+📫 To contact me, please send me a message on [LinkedIn](https://www.linkedin.com/in/emmafrid)! 
+
 
 <!--
 - 🌱 I’m currently learning ...
