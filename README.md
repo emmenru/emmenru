@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-🧙‍♀️ I'm Emma, a research scientist consultant and engineer with a PhD in Sound and Music Computing, based in Paris (France). 
+🧙‍♀️ I'm Emma, a researcher and engineer with a PhD in Sound and Music Computing, based in Paris (France). 
 
 📝 To learn more about my research, please visit my [Google Scholar page](https://scholar.google.com/citations?user=0PvSz8cAAAAJ&hl=eng). 
 
-👀 I’m interested in data-driven methods to enhance user experience and ensure accessibility for all. Python and R are my favorite tools.
+👀 I’m interested in music tech and data-driven methods to enhance user experience and ensure accessibility for all. Python and R are my favorite tools.
 
 🎶 I love music and sounds (I use SuperCollider, Max/MSP, and Pd) and I enjoy taking/editing [pictures](https://emserpics.tumblr.com/). 
 
